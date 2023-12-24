@@ -1,1 +1,1 @@
-# default pack LSPDFR for GTAV SP
+# default pack LSPDFR GTAV SP
